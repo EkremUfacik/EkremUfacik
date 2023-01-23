@@ -25,7 +25,7 @@
 
 <p>
 <img src="https://github-readme-stats.vercel.app/api?username=EkremUfacik&theme=chartreuse-dark&hide_border=true" alt="my github stats " width="40%"/>&nbsp;
-<p> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EkremUfacik&theme=chartreuse-dark&layout=compact&hide_border=true" alt="languages" width="40%" ></p>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EkremUfacik&theme=chartreuse-dark&layout=compact&hide_border=true" alt="languages" width="40%" ></p>
 
 <!--
 <p align="center"><img src="https://activity-graph.herokuapp.com/graph?username=EkremUfacik&theme=react-dark" alt="EkremUfacik github activity graph" /></p> -->
