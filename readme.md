@@ -24,7 +24,7 @@
 <br>
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=EkremUfacik&theme=chartreuse-dark&hide_border=true" alt="my github stats " width="50%"/>&nbsp;
+<img src="https://github-readme-stats.vercel.app/api?username=EkremUfacik&theme=chartreuse-dark&hide_border=true" alt="my github stats " width="49%"/>&nbsp;
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EkremUfacik&theme=chartreuse-dark&layout=compact&hide_border=true" alt="languages" width="40%" ></p>
 
 <!--
